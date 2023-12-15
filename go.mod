@@ -1,4 +1,4 @@
-module self-try
+module basic-go
 
 go 1.19
 
